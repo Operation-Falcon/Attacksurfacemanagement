@@ -1,0 +1,13 @@
+# Masscan 1.0.5 scan initiated Sun Jul 18 13:27:34 2021
+# Ports scanned: TCP(65536;0-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 80.73.1.1 ()	Ports: 389/open/tcp////
+Host: 23.216.94.71 ()	Ports: 443/open/tcp////
+Host: 10.232.9.200 ()	Ports: 554/open/tcp////
+Host: 23.50.51.87 ()	Ports: 554/open/tcp////
+Host: 207.17.190.5 ()	Ports: 165/open/tcp////
+Host: 23.74.194.176 ()	Ports: 443/open/tcp////
+Host: 1.2.4.8 ()	Ports: 554/open/tcp////
+Host: 23.64.3.134 ()	Ports: 443/open/tcp////
+Host: 2.20.142.63 ()	Ports: 554/open/tcp////
+Host: 213.211.50.1 ()	Ports: 53/open/tcp////
+# Masscan done at Sun Jul 18 13:28:51 2021
